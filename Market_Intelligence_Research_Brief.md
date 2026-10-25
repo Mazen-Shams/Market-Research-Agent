@@ -1,7 +1,7 @@
 # Market Intelligence Research Brief: AI-Driven Predictive Thermal Monitoring & Scrap Reduction in Commercial Tyre Curing Presses
 
 * **Student Name**: Mazen Shams (Smart Manufacturing Engineer)
-* **Date**: October 16, 2026
+* **Date**: October 25, 2026
 * **Topic / Company**: Prometeon Tyre Group (Alexandria Plant) — Commercial & Industrial Tyre Operations
 * **QuickSuite Space Link**: [Amazon Quick Market Intelligence Space](https://us-west-2.quicksight.aws.amazon.com/sn/account/UdacityQuicksightLab/spaces/9c86ce76-4454-4202-92f4-0e2bb5e7da00)
 * **Document Status**: Complete / Executive Submission Ready
@@ -66,6 +66,7 @@ The investigation followed an agentic intelligence workflow combining determinis
 |  [ LAYER 2: EXTERNAL MARKET SIGNAL MINING (AMAZON QUICK AGENT SUITE) ]                            |
 |  * Quick Research Agent Queries: Commodity price indices (TSR20), EUDR compliance rules,         |
 |    Tier-1 competitor smart factory press releases, and global predictive maintenance benchmarks   |
+|  * Live Research Report: [Commercial Truck Tire Predictive Maintenance & Rubber Dynamics](https://us-west-2.quicksight.aws.amazon.com/sn/account/UdacityQuicksightLab/research/view/602998cb-1c6a-4f6e-8d29-63bd025941f8/report/latest) |
 |  * Filter Criteria: Named authoritative sources published between September 2024 & March 2026    |
 +---------------------------------------------------------------------------------------------------+
                                                   |
