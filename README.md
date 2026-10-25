@@ -33,10 +33,7 @@ The research bridges **internal empirical machine telemetry** (1,500 inspection 
 ├── assets/                                       # High-Resolution Visual Evidence Dashboards
 │   ├── prometeon_curing_thermal_telemetry_analysis.png  # Primary 4-Panel Executive Telemetry Dashboard
 │   └── apex_predictive_ai_telemetry_analysis.png        # Auxiliary Predictive Model Diagnostics
-└── scripts/
-    ├── generate_curing_data.py                   # Industrial Telemetry Simulation Engine
-    ├── generate_curing_analysis_and_charts.py    # Analytics & High-Res Visualization Pipeline
-    └── summarize_stats.py                        # Descriptive Statistics & Outlier Triage Engine
+└── research-brief-template.docx                  # Populated Official Template
 ```
 
 ---

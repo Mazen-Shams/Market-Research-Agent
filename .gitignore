@@ -1,6 +1,6 @@
 __pycache__/
+*.py
 *.py[cod]
 *$py.class
 *.zip
-populate_*.py
 assets/c2_p2_*.png
